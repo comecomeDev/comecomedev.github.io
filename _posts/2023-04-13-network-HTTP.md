@@ -2,11 +2,9 @@
 title: HTTP _1(HTTP란)
 author: 
 date: 2023-04-14 00:10:00 +0800
-categories: [Study, HTTP]
+categories: [Network,HTTP]
 tags: [Network]
-render_with_liquid: false
 ---
-
 
 
 ## HTTP
