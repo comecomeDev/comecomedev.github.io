@@ -27,7 +27,6 @@ HTTP는 클라이언트가 요청하기 위해 연결을 연 다음에 응답을
 3. 상태는 없지만 세션은 있음 (HTTP 핵심은 상태가 없는것이지만 HTTP쿠키는 상태가 있는 세션을 만들수 있도록함 )
 
 ## HTTP 흐름
-![img](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview/client-server-chain.png)
 
 (요청과 응답사이에 프록시는 게이트웨이나 캐시 역할을 함)
 
