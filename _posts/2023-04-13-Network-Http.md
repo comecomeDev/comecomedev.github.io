@@ -1,7 +1,7 @@
 ---
 title: HTTP _1(HTTP란)
 author: 
-date: 2023-04-13 00:10:00 +0800
+date: 2023-04-13 23:10:00 +0800
 categories: [Study, Network]
 tags: [Network]
 render_with_liquid: false
@@ -43,6 +43,3 @@ user agent(예: 브라우저)와 서버 간의 통신을 교환하는데 사용�
 
 2. PROXY
 → 애플리케이션 계층에서 동작하는것들(EX: FTP, DNS, SSH, HTTP 등 )을 일컬어 일반적으로 프록시라고 함 프록시는 눈에 보일수도 그렇지 않을수 있다. 프록시의 기능으론 캐싱, 필터링, 로드밸런싱, 인증,로깅 있음.
-
-
-
