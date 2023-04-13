@@ -2,8 +2,8 @@
 title: 콜백 함수
 author: 
 date: 2023-04-13 00:10:00 +0800
-categories: [Javascript, Callback]
-tags: [writing]
+categories: [Study, Javascript]
+tags: [Javascript]
 render_with_liquid: false
 ---
 
@@ -54,6 +54,7 @@ function(value,index,array) //값,인덱스,배열(Array를 가지고 있는 함
 
 2. map()
 map도 Array를 가지고 있는 함수로 콜백함수에서 리턴한 값들을 기반으로 새로운 배열을 만드는 함수
+
 ```javascript
 let num =[1,2,3,4,5]
 
